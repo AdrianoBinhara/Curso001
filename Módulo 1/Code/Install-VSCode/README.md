@@ -1,9 +1,9 @@
-# Instalação do Visual Studio Code - Configuração
+# Instalação do Visual Studio Code - Configuração 🕹
 ## O Visual Studio code é um dos editores de texto mais utilizado no mundo inteiro. 
 #### Possui integração com diversas linguagem, além de ser completamente customizável.
 <br/><br/>
 
-# Requisitos de sistema
+# Requisitos de sistema 💻
 ### O VSCode é extremamente leve que, e possui também sua versão web, que não necessita instalação.
  - #### Os requisitos mínimos para instalação do VSCode são baixos. Você precisa de um computador Intel Core i3, 8gb de RAM, e 128 gb de disco.
 --- 
@@ -39,7 +39,7 @@
 
 <br/><br/>
 
-# Configurações
+# Configurações ⚙️
 - ### Como falei no início, o Visual Studio Code é completamente customizável, sendo assim, ele nos permite criar nossa propria configuração.
 - ### Pressionando o botão CMD + Vírgula abrirá uma interface para configurção do editor.
 - ### No canto superior direito dessa tela há um botão para abrir as configurações em JSON (Open Settings)
@@ -62,7 +62,7 @@
 
 <br/><br/>
 
-# Temas e Extensões
+# Temas e Extensões 🌌
 - ### Você pode utilizar temas e fontes personalizadas no Visual Studio Code.
 - ### Aconselhamos a instalação da extensão ***VS Code Icons***, para visualizar os icones da Solução com maior clareza.
 - ### Por aqui, utilizamos o tema ***Dracula***. Os temas podem ser instalados também como uma extensão. 
