@@ -1,6 +1,6 @@
 ﻿public class DataTypeClass
 {
-    // Complete as variáveis com seus respectivo tipo de dado
+    // Complete as variáveis com seus respectivos tipos de dados
 
     myInt = 12;
     myLong = 1234L;
