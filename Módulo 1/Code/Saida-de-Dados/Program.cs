@@ -12,14 +12,14 @@ namespace DataOut
             int age = 22;
             double balance = 256.97556;
 
-            Console.Write("Olá, {0}", name);
-            Console.WriteLine($" - {age}/ {gender}");
-            Console.WriteLine("Você possui " + balance.ToString("F2", CultureInfo.InvariantCulture) + " em sua conta bancária.");
+            Console.Write("Olá, {0}", name); //Concatenação
+            Console.WriteLine($" - {age}/ {gender}"); //Interpolação
+            Console.WriteLine("Você possui " + balance.ToString("F2", CultureInfo.InvariantCulture) + " em sua conta bancária."); //Concatenação
 
             // ------------------------------------------- //
             //Entrada de dados
             // Console.Write("Quanto dinheiro você possui? ");
-            // int money = Convert.ToInt32(Console.ReadLine());
+            // int money = int.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
             // Console.WriteLine($"Você possui {money} reais.");
             // Console.WriteLine();
             // Console.Write("Digite um valor para somar ao seu saldo: ");
