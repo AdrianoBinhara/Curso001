@@ -1,4 +1,5 @@
 ﻿using System;
+using Project;
 namespace Code
 {
     class Program
@@ -6,9 +7,10 @@ namespace Code
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            int name = "Binhara";
+            NovaClasse novaClasse = new NovaClasse();
+            novaClasse.Idade;
         }
     }
-   
+
 }
 
